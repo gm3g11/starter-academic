@@ -203,9 +203,7 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
-############################
-## Comments
-############################
+
 [comments]
   # Comment provider:
   #   0: Disabled
